@@ -376,13 +376,8 @@ figure {
     font-size: 16px;
   }
 
-  .project-course, .project-date, .project-url {
-    margin: .4em 0;
-  }
-
   .project-title {
     font-size: 1.5em;
-    margin-bottom: .3em;
   }
 
   .project-url {
@@ -390,7 +385,7 @@ figure {
   }
 
   .project-course {
-    font-size: .7em;
+    font-size: 1.2em;
   }
 
   .project-date {
@@ -404,10 +399,6 @@ figure {
 }
 
 @media screen and ( max-width: 480px){
-  .project-details {
-    width: auto;
-    font-size: 12px;
-  }
 }
 
 @media screen and ( max-width: 320px){
